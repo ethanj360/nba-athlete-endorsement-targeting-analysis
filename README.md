@@ -253,6 +253,8 @@ Each page is structured to build on the previous one. It starts with a high-leve
 
 Throughout the dashboard, players are grouped into consistent buckets based on career stage and endorsement status. I kept these buckets and legends consistent across all pages so it is easy to see who is already locked into signature deals, who is emerging, and who represents a realistic high-upside target. This makes the visuals easier to read and keeps the focus on practical decision-making rather than just numbers.
 
+- [Link to Power BI Dashboard](power_bi_visualizations)
+
 ---
 
 ### Executive Overview
