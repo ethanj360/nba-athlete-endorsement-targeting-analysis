@@ -112,7 +112,6 @@ This project combines performance indicators with off-court audience signals to 
 Key factors include:
 
 - Instagram engagement rate ((average likes + average comments)/total followers)*100)
-- Audience growth and interaction 
 - Google Trends momentum over time
 - Usage rate, minutes, and on-court role
 - Career stage and age
