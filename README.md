@@ -82,7 +82,7 @@ This project looks at NBA athletes through a mix of on-court performance data, s
 
 ## Core Business Question
 
-**Which NBA athletes or athlete profiles offer the highest endorsement upside for athletic shoe brands?**
+**Which NBA athletes offer the highest endorsement upside for athletic shoe brands?**
 
 This project intentionally avoids framing the question as “who should brands sign next.” In practice, most NBA players are already under exclusive endorsement contracts or receive player-exclusive colorways with their current brand. If the question were "who should brands sign next", this project would focus more on college, high school, and overseas stars. 
 
