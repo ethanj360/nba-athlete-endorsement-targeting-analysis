@@ -45,7 +45,8 @@ Images used to preview the Power BI dashboard.
 
 
 **Findings**
-- Keyonte George, Alpren Sengun, Brandon Miller, Jalen Williams, and Scottie Barnes are the players with the highest endorsement upside. They are likely top candidates to receive signature shoes or more player-exclusive colorways in the near future. 
+- Keyonte George, Alpren Sengun, Brandon Miller, Jalen Williams, and Scottie Barnes are the players with the highest endorsement upside. They are likely top candidates to receive signature shoes or more player-exclusive colorways in the near future.
+    - Nike's highest endorsement upside athlete is Keyonte George, Jordan's is Jalen Williams, and the best free agent is Deni Avdija. 
 - Engagement rate and momentum matter more than raw follower count
 - Several non-signature athletes show stronger growth signals than current signature holders
 - Young players with rising usage and public interest represent strong long-term brand bets
@@ -309,6 +310,8 @@ The final appendix is a quick brand summary. From this, we are able to see which
 
 ## Key Takeaways
 
+- Keyonte George, Alpren Sengun, Brandon Miller, Jalen Williams, and Scottie Barnes are the players with the highest endorsement upside. They are likely top candidates to receive signature shoes or more player-exclusive colorways in the near future.
+    - Nike's highest endorsement upside athlete is Keyonte George, Adidas' is Jalen Williams, and the best free agent available to sign is Deni Avdija. 
 - Engagement and momentum often matter more than raw follower count. This was proven through the "Risk and Mixed Outcomes" bucket as players such as Lonzo Ball and Andrew Wiggins had lower engagement yet high followings.   
 - Several non-signature athletes show stronger growth signals than current signature holders; NBA fans tend to gravitate towards newer players in terms of fan interaction via social media. 
 - Young players with high usage and rising public interest represent strong long-term endorsement bets. Lamelo Ball was the number one player for high usage and public interest.  
