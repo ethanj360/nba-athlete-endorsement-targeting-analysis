@@ -1,0 +1,11 @@
+athlete,bucket,brand_signed_with,has_signature_shoe,usage_rate_pct,minutes_per_game,points_per_game
+Lamelo Ball,Young Signature,Puma,Y,0.354,32.0,25.2
+Giannis Antetokounmpo,Established Signature,Nike,Y,0.352,34.2,30.4
+Cade Cunningham ,Young Signature,Nike,Y,0.332,35.0,26.1
+Ja Morant,Young Signature,Nike,Y,0.324,30.4,23.2
+Anthony Edwards,Young Signature,Adidas,Y,0.313,36.3,27.6
+Tyrese Maxey,Young Signature,New Balance,Y,0.301,37.7,26.3
+Lebron James,Established Signature,Nike,Y,0.301,34.9,24.4
+Zion Williamson,Young Signature,Jordan,Y,0.299,31.5,22.9
+Stephen Curry,Established Signature,FA,Y,0.297,32.2,24.5
+James Harden,Established Signature,Adidas,Y,0.296,35.3,22.8

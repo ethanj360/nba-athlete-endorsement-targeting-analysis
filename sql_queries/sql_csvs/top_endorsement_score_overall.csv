@@ -1,0 +1,11 @@
+athlete,bucket,brand_signed_with,has_signature_shoe,age,current_team,position,google_trends_pct_change,engagement_rate_pct,usage_rate_pct,minutes_per_game,ig_follower_count,endorsement_score
+Keyonte George,High-Value Targets,Nike,N,20,Jazz,PG,2.1429,0.148,0.243,31.5,180000,0.7212
+Tyrese Maxey,Young Signature,New Balance,Y,25,76ers,PG,1.0769,0.0478,0.301,37.7,932000,0.7025
+Alperen Sengun,High-Value Targets,Nike,N,23,Rockets,C,0.1463,0.1835,0.263,31.5,1300000,0.7
+Shaedon Sharpe,High-Value Targets,Nike,N,22,Trail Blazers,SG,0.5355,0.1481,0.251,31.3,194000,0.6838
+Deni Avdija,Young Signature,FA,Y,25,Trail Blazers,SF,0.9824,0.1962,0.232,30.0,348000,0.6687
+Giannis Antetokounmpo,Established Signature,Nike,Y,31,Bucks,PF,1.0,0.032,0.352,34.2,16000000,0.6675
+Stephon Castle ,High-Value Targets,Nike,N,21,Spurs,PG,0.2097,0.189,0.259,26.7,297000,0.665
+Cade Cunningham ,Young Signature,Nike,Y,24,Pistons,PG,0.0464,0.0866,0.332,35.0,968000,0.6587
+Alex Sarr,High-Value Targets,Decathlon,N,20,Wizards,C,0.3043,0.1487,0.236,27.1,135000,0.6362
+Brandon Miller,High-Value Targets,Nike,N,23,Hornets,SF,3.1496,0.0186,0.277,34.2,250000,0.5762

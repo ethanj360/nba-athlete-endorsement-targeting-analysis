@@ -1,0 +1,42 @@
+athlete,bucket,has_signature_shoe,brand_signed_with,x_usage,y_trends_change,bubble_engagement,bubble_followers
+Lebron James,Established Signature,Y,Nike,0.301,-0.3517,0.0016,157000000
+Kevin Durant,Established Signature,Y,Nike,0.289,-0.222,0.0608,13600000
+Stephen Curry,Established Signature,Y,FA,0.297,-0.1308,0.0092,58300000
+Damian Lillard,Established Signature,Y,Adidas,0.277,-0.6367,0.0032,9900000
+Giannis Antetokounmpo,Established Signature,Y,Nike,0.352,1.0,0.032,16000000
+James Harden,Established Signature,Y,Adidas,0.296,0.3628,0.0045,12000000
+Anthony Edwards,Young Signature,Y,Adidas,0.313,-0.3266,0.0325,5100000
+Ja Morant,Young Signature,Y,Nike,0.324,0.0082,0.0494,9400000
+Zion Williamson,Young Signature,Y,Jordan,0.299,-0.0199,0.0202,4800000
+Lamelo Ball,Young Signature,Y,Puma,0.354,-0.2484,0.0395,10600000
+Deni Avdija,Young Signature,Y,FA,0.232,0.9824,0.1962,348000
+Cade Cunningham ,Young Signature,Y,Nike,0.332,0.0464,0.0866,968000
+Tyrese Maxey,Young Signature,Y,New Balance,0.301,1.0769,0.0478,932000
+Tyrese Haliburton,Young Signature,Y,Puma,0.217,-0.3868,0.0277,2300000
+Domantas Sabonis,High-Value Targets,N,Nike,0.215,-0.5106,0.0184,368000
+Alperen Sengun,High-Value Targets,N,Nike,0.263,0.1463,0.1835,1300000
+Jamal Murray,High-Value Targets,N,New Balance,0.241,0.0443,0.0535,1200000
+Pascal Siakam,High-Value Targets,N,Nike,0.243,0.0883,0.0077,853000
+Jrue Holiday,High-Value Targets,N,Nike,0.158,-0.2954,0.0633,862000
+Jalen Duren ,High-Value Targets,N,Nike,0.164,0.0994,0.1311,213000
+Chet Holmgren,High-Value Targets,N,Nike,0.219,0.0474,0.0741,949000
+Scottie Barnes,High-Value Targets,N,Nike,0.272,0.2536,0.0282,807000
+Norman Powell,High-Value Targets,N,Sketchers,0.259,0.1702,0.0201,346000
+Jalen WIlliams,High-Value Targets,N,Adidas,0.275,0.0056,0.113,540000
+Evan Mobley,High-Value Targets,N,Adidas,0.233,-0.3619,0.052,258000
+Shaedon Sharpe,High-Value Targets,N,Nike,0.251,0.5355,0.1481,194000
+Walker Kessler,High-Value Targets,N,Adidas,0.137,-0.7958,0.0077,109000
+Brandon Miller,High-Value Targets,N,Nike,0.277,3.1496,0.0186,250000
+Amen Thompson,High-Value Targets,N,Nike,0.175,-0.1846,0.126,497000
+Ausar Thompson,High-Value Targets,N,Nike,0.19,-0.3322,0.1009,344000
+Keyonte George,High-Value Targets,N,Nike,0.243,2.1429,0.148,180000
+Alex Sarr,High-Value Targets,N,Decathlon,0.236,0.3043,0.1487,135000
+Zaccharie Risacher,High-Value Targets,N,FA,0.209,-0.3945,0.066,126000
+Stephon Castle ,High-Value Targets,N,Nike,0.259,0.2097,0.189,297000
+Austin Reaves,Marketable Role Players,Y,Rigorer,0.236,-0.1053,0.0591,1500000
+Mikal Bridges,Marketable Role Players,N,Nike,0.196,-0.189,0.0907,492000
+Jordan Clarkson,Marketable Role Players,N,Nike,0.28,0.5587,0.0265,2000000
+Bronny James,Marketable Role Players,N,Nike,0.206,-0.5421,0.0956,7500000
+Andrew Wiggins,Mixed Outcome,Y,Peak,0.246,-0.6173,0.044,2000000
+Lonzo Ball,Mixed Outcome,Y,FA,0.159,0.0228,0.0027,17700000
+Klay Thompson,Mixed Outcome,Y,Anta,0.219,0.0905,0.0212,16700000
