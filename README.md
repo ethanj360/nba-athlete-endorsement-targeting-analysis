@@ -220,7 +220,7 @@ Certain metrics, especially engagement rate calculations and Google Trends compa
 
 This project involved more hands-on data cleaning than I initially expected. Because the data came from multiple sources (web scraping, manual tracking, and public datasets), a lot of the work was about making sure numbers actually meant the same thing before comparing them.
 
-One of the first issues I ran into was schema conflicts when loading data into BigQuery. Some fields were being inferred incorrectly, especially percentages and numeric columns pulled from CSV exports. Instead of relying on auto-detection, I manually defined the schema and validated each column to avoid silent type errors that would affect downstream calculations.
+One of the first issues I ran into was schema conflicts when loading data into BigQuery. Some fields were being inferred incorrectly (INTs, Strings, floats), especially percentages and numeric columns pulled from CSV exports. Instead of relying on auto-detection, I manually defined the schema and validated each column to avoid errors.
 
 Another recurring issue was inconsistent percentage formatting. Some metrics were stored as decimals, others as percentages, and a few changed formats between tools. I normalized these values in Power Query, then double-checked them again in Power BI’s model view after noticing visuals still rendering decimals instead of percentages. That extra validation step ended up catching multiple formatting issues that would have gone unnoticed otherwise.
 
