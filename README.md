@@ -28,20 +28,16 @@ Athletic shoe brands such as Nike, Adidas, Puma, Anta, Jordan Brand, and similar
 ## Links to Deliverables 
 
 - **Power BI Dashboard**  
-  Interactive dashboard with narrative-driven visualizations covering endorsement upside, momentum, engagement quality, and brand-specific views.  
-  `power_bi_visualizations/NBA_Athlete_Endorsement_Dashboard.pbix`
+  Interactive dashboard with narrative-driven visualizations covering endorsement upside, momentum, engagement quality, and brand-specific views.
+  - ![PDF](power_bi_visualizations/NBA Athlete Endorsement Visualizations Clean.pdf)
+  - ![Power BI](power_bi_visualizations/NBA_Athlete_Endorsement_Dashboard.pbix)
 
-- **SQL Queries and Analysis**  
+- **![SQL Queries and Analysis](sql_queries/)**  
   BigQuery SQL views used to normalize metrics and calculate the composite endorsement score.  
-  `sql_queries/`
 
-- **Final Endorsement Dataset**  
+- **![Final Endorsement Dataset](sql_queries/sql_csvs/final_table_by_endorsement_score.csv)**  
   Cleaned and validated dataset used across SQL and Power BI analysis.  
-  `sql_queries/sql_csvs/final_table_by_endorsement_score.csv`
 
-- **Google Trends Source Data**  
-  Manually collected and combined Google Trends data used to measure public interest momentum.  
-  `google_trends_manual_csv/`
 
 - **![Dashboard Screenshots](/images)**  
 Images used to preview the Power BI dashboard.  
