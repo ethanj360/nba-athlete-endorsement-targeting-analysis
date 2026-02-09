@@ -240,27 +240,56 @@ This mirrors real-world endorsement decision-making more closely than pure perfo
 
 ---
 
-## Power BI Visualizations
+## Power BI Dashboard Overview
 
-The final output is a multi-page Power BI dashboard designed to tell a clear endorsement targeting story.
+The final output of this project is a multi-page Power BI dashboard built to answer one core question: which NBA players offer the strongest endorsement upside right now?
+
+Each page is structured to build on the previous one. It starts with a high-level view of overall endorsement targets, then breaks the analysis down by brand, momentum, and engagement quality. The goal is to walk through how a brand might actually think about endorsement decisions instead of just ranking players by one metric.
+
+Throughout the dashboard, players are grouped into consistent buckets based on career stage and endorsement status. I kept these buckets and legends consistent across all pages so it is easy to see who is already locked into signature deals, who is emerging, and who represents a realistic high-upside target. This makes the visuals easier to read and keeps the focus on practical decision-making rather than just numbers.
+
+---
 
 ### Executive Overview
 ![Executive Overview](images/NBA_endorsement_power_bi_page_1.png)
 
+This page answers the main business question at a glance. It highlights the athletes with the highest overall endorsement upside when engagement, momentum, on-court role, and age are considered together. This is meant to be the starting point for narrowing down potential targets before looking at deeper breakdowns.
+
+---
+
 ### Top Endorsement Targets by Brand
 ![Top Targets by Brand](images/NBA_endorsement_power_bi_page_2.png)
+
+This page looks at endorsement upside within each brand’s current athlete portfolio. Instead of asking who a brand should steal from another company, it focuses on who brands should invest in more heavily. This includes players who could justify a signature shoe, expanded marketing support, or a larger role within the brand’s lineup.
+
+---
 
 ### Momentum and Market Demand
 ![Momentum and Market Demand](images/NBA_endorsement_power_bi_page_3.png)
 
+This section focuses on players whose public interest is trending upward. By combining Google Trends data with on-court usage, it highlights athletes whose demand is building before it becomes obvious. The idea is to identify momentum early rather than reacting after hype peaks.
+
+---
+
 ### Engagement Quality and Audience Efficiency
 ![Engagement Quality](images/NBA_endorsement_power_bi_page_4.png)
+
+This page looks at how effectively athletes convert audience size into engagement. It shows that larger followings do not always mean stronger engagement, and that several non-signature or lower-profile players generate more interaction relative to their audience size. This helps identify high-ROI endorsement opportunities that are easy to overlook.
+
+---
 
 ### Appendix: Highest Engagement Rates
 ![Highest Engagement Rates](images/NBA_endorsement_power_bi_page_5.png)
 
+This appendix provides additional context by ranking individual players purely by engagement rate. It supports earlier insights around audience quality and helps explain why some smaller or less hyped players stand out as strong endorsement candidates.
+
+---
+
 ### Appendix: Brand Summary
 ![Brand Summary](images/NBA_endorsement_power_bi_page_6.png)
+
+The final appendix is a quick brand summary. From this, we are able to see which brands are selecting their lineups wisely and how individuals are performing. 
+
 
 
 ---
