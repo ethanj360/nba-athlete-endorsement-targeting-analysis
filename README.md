@@ -327,9 +327,9 @@ The final appendix is a quick brand summary. From this, we are able to see which
 
 ## Why This Project Matters
 
-Endorsement decisions are bets made under uncertainty. This project focuses on reducing that uncertainty by combining performance, audience behavior, and public interest signals into a single analytical framework.
+Endorsement decisions are basically educated guesses. Brands are committing money and long-term attention to players before the results are obvious, and much of that decision-making happens with incomplete information.
 
-The same logic applies beyond basketball — anywhere brands need to decide who to invest in before the upside is obvious.
+The goal of this project was to reduce some of that guesswork by examining performance, audience behavior, and public interest together rather than in isolation. The same idea works beyond basketball, especially in situations where brands have to make investment decisions before the payoff is clear.
 
 ---
 
@@ -340,9 +340,9 @@ If I were to do this project again or continue building on it, the next thing I 
 I thought about including this during the project, but reliable sales data is hard to find and would have taken a significant amount of time to collect and clean properly. Instead of rushing that part or relying on rough estimates, I chose to focus on building a solid endorsement targeting framework using performance data, engagement metrics, and public interest trends.
 
 If this were expanded further, other directions I would explore include:
-- Comparing endorsement scores to known signature shoe performance where data is available
+- Comparing endorsement scores to known signature shoe performance, where data is available
 - Looking at changes in engagement and search interest before and after signature shoe launches
-- Expanding the analysis to other leagues like the WNBA or NCAA
+- Expanding the analysis to other leagues, like the WNBA or NCAA, as well as other sports
 - Applying the same approach to non-sports endorsements, such as influencers or entertainers
 
 I intentionally kept the project focused on how brands decide who to invest in before sales results are available. Adding sales data later would help confirm those decisions, but the main framework still works on its own.
@@ -359,5 +359,6 @@ This project strengthened my ability to:
 - Use SQL not just for querying, but for modeling business decisions  
 - Communicate analysis in a way that reflects how brands actually operate
 - Strengthened my Power BI, visualization, and data storytelling skills
+- Strengthened my Python and web scraping skills
 
 
