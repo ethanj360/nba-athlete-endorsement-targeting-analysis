@@ -280,7 +280,7 @@ The final output is a multi-page Power BI dashboard designed to tell a clear end
 
 ## Key Takeaways
 
-- Engagement and momentum often matter more than raw follower count. This was proven through the "Risk and Mixed Outcomes" bucket as players such as Lonzo Ball and Andrew Wiggins had lower engagement.   
+- Engagement and momentum often matter more than raw follower count. This was proven through the "Risk and Mixed Outcomes" bucket as players such as Lonzo Ball and Andrew Wiggins had lower engagement yet high followings.   
 - Several non-signature athletes show stronger growth signals than current signature holders; NBA fans tend to gravitate towards newer players in terms of fan interaction via social media. 
 - Young players with high usage and rising public interest represent strong long-term endorsement bets. Lamelo Ball was the number one player for high usage and public interest.  
 - Some established endorsements show declining momentum despite large audiences. Players like James Harden and Damian Lillard are declining in popularity, most likely due to their athletic primes fading. 
