@@ -54,7 +54,11 @@ Images used to preview the Power BI dashboard.
 
 
 **Tools Used**
-Python, SQL (BigQuery), Excel, Power BI
+
+- Python
+- SQL (BigQuery)
+- Excel
+- Power BI
 
 **Why It Matters**
 This project models how brands actually make endorsement decisions under uncertainty and provides a reusable framework for athlete marketing, influencer targeting, and brand partnerships beyond basketball.
