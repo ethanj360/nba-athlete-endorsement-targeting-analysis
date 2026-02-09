@@ -1,0 +1,42 @@
+﻿athlete,games_played,games_played_pct,minutes_per_game,points_per_game,usage_rate_pct,ig_follower_count,engagement_rate_pct,google_trends_12mo_avg,google_trends_recent_12wk_avg,google_trends_early_12_wk_avg,google_trends_pct_change,age,position,current_team,year_drafted,has_signature_shoe,brand_signed_with,bucket
+Lebron James,70,0.85,34.9,24.4,0.301,157000000,0.0016,47.40,45.92,70.83,-0.3517,31,SF,Lakers,2003,Y,Nike,Established Signature
+Kevin Durant,62,0.76,36.5,26.6,0.289,13600000,0.0608,11.38,10.83,13.92,-0.2220,37,SF,Rockets,2007,Y,Nike,Established Signature
+Stephen Curry,70,0.85,32.2,24.5,0.297,58300000,0.0092,22.25,24.92,28.67,-0.1308,37,PG,Warriors,2009,Y,FA,Established Signature
+Damian Lillard,58,0.71,36.1,24.9,0.277,9900000,0.0032,10.96,5.42,14.92,-0.6367,35,PG,Trail Blazers,2012,Y,Adidas,Established Signature
+Giannis Antetokounmpo,67,0.82,34.2,30.4,0.352,16000000,0.0320,10.75,19.00,9.50,1.0000,31,PF,Bucks,2013,Y,Nike,Established Signature
+James Harden,79,0.96,35.3,22.8,0.296,12000000,0.0045,6.36,10.33,7.58,0.3628,36,PG,Cavaliers,2009,Y,Adidas,Established Signature
+Anthony Edwards,79,0.96,36.3,27.6,0.313,5100000,0.0325,30.08,28.17,41.83,-0.3266,24,SG,Timberwolves,2020,Y,Adidas,Young Signature
+Ja Morant,50,0.61,30.4,23.2,0.324,9400000,0.0494,21.25,30.75,30.50,0.0082,26,PG,Grizzlies,2019,Y,Nike,Young Signature
+Zion Williamson,70,0.85,31.5,22.9,0.299,4800000,0.0202,9.85,12.33,12.58,-0.0199,25,PF,Pelicans,2019,Y,Jordan,Young Signature
+Lamelo Ball,47,0.57,32.0,25.2,0.354,10600000,0.0395,18.42,22.42,29.83,-0.2484,24,PG,Hornets,2020,Y,Puma,Young Signature
+Deni Avdija,72,0.88,30.0,16.9,0.232,348000,0.1962,3.34,4.50,2.27,0.9824,25,SF,Trail Blazers,2020,Y,FA,Young Signature
+Cade Cunningham ,70,0.85,35.0,26.1,0.332,968000,0.0866,4.86,7.67,7.33,0.0464,24,PG,Pistons,2021,Y,Nike,Young Signature
+Tyrese Maxey,52,0.63,37.7,26.3,0.301,932000,0.0478,3.53,6.75,3.25,1.0769,25,PG,76ers,2020,Y,New Balance,Young Signature
+Tyrese Haliburton,73,0.89,33.6,18.6,0.217,2300000,0.0277,10.68,3.17,5.17,-0.3868,25,PG,Pacers,2020,Y,Puma,Young Signature
+Domantas Sabonis,70,0.85,34.7,19.1,0.215,368000,0.0184,2.67,2.08,4.25,-0.5106,29,C,Kings,2016,N,Nike,High-Value Targets
+Alperen Sengun,76,0.93,31.5,19.1,0.263,1300000,0.1835,11.49,17.00,14.83,0.1463,23,C,Rockets,2021,N,Nike,High-Value Targets
+Jamal Murray,67,0.82,36.1,21.4,0.241,1200000,0.0535,12.25,17.67,16.92,0.0443,28,PG,Nuggets,2016,N,New Balance,High-Value Targets
+Pascal Siakam,78,0.95,32.7,20.2,0.243,853000,0.0077,16.13,12.33,11.33,0.0883,31,PF,Pacers,2016,N,Nike,High-Value Targets
+Jrue Holiday,62,0.76,30.6,11.1,0.158,862000,0.0633,9.51,6.75,9.58,-0.2954,35,PG,Trail Blazers,2009,N,Nike,High-Value Targets
+Jalen Duren ,78,0.95,26.1,11.8,0.164,213000,0.1311,8.14,13.83,12.58,0.0994,22,C,Pistons,2022,N,Nike,High-Value Targets
+Chet Holmgren,32,0.39,27.4,15.0,0.219,949000,0.0741,20.83,18.33,17.50,0.0474,23,C,Thunder,2022,N,Nike,High-Value Targets
+Scottie Barnes,65,0.79,32.8,19.3,0.272,807000,0.0282,8.25,14.83,11.83,0.2536,24,PF,Raptors,2021,N,Nike,High-Value Targets
+Norman Powell,60,0.73,32.6,21.8,0.259,346000,0.0201,7.96,12.58,10.75,0.1702,32,SG,Heat,2015,N,Sketchers,High-Value Targets
+Jalen WIlliams,69,0.84,32.4,21.6,0.275,540000,0.1130,17.58,14.33,14.25,0.0056,24,SG,Thunder,2022,N,Adidas,High-Value Targets
+Evan Mobley,71,0.87,30.5,18.5,0.233,258000,0.0520,9.45,10.42,16.33,-0.3619,24,PF,Cavaliers,2021,N,Adidas,High-Value Targets
+Shaedon Sharpe,72,0.88,31.3,18.5,0.251,194000,0.1481,8.08,16.00,10.42,0.5355,22,SG,Trail Blazers,2022,N,Nike,High-Value Targets
+Walker Kessler,58,0.71,30.0,11.1,0.137,109000,0.0077,6.40,3.08,15.08,-0.7958,24,C,Jazz,2022,N,Adidas,High-Value Targets
+Brandon Miller,27,0.33,34.2,21.0,0.277,250000,0.0186,8.49,21.08,5.08,3.1496,23,SF,Hornets,2023,N,Nike,High-Value Targets
+Amen Thompson,69,0.84,32.3,14.1,0.175,497000,0.1260,24.42,29.42,36.08,-0.1846,23,SF,Rockets,2023,N,Nike,High-Value Targets
+Ausar Thompson,59,0.72,22.5,10.1,0.190,344000,0.1009,13.23,16.08,24.08,-0.3322,22,SF,Pistons,2023,N,Nike,High-Value Targets
+Keyonte George,67,0.82,31.5,16.8,0.243,180000,0.1480,7.48,13.42,4.27,2.1429,20,PG,Jazz,2023,N,Nike,High-Value Targets
+Alex Sarr,67,0.82,27.1,13.0,0.236,135000,0.1487,4.53,7.50,5.75,0.3043,20,C,Wizards,2024,N,Decathlon,High-Value Targets
+Zaccharie Risacher,75,0.91,24.6,12.6,0.209,126000,0.0660,3.00,3.33,5.50,-0.3945,20,SF,Hawks,2024,N,FA,High-Value Targets
+Stephon Castle ,81,0.99,26.7,14.7,0.259,297000,0.1890,7.21,12.00,9.92,0.2097,21,PG,Spurs,2024,N,Nike,High-Value Targets
+Austin Reaves,73,0.89,34.9,20.2,0.236,1500000,0.0591,18.23,25.50,28.50,-0.1053,27,SG,Lakers,2021,Y,Rigorer,Marketable Role Players
+Mikal Bridges,82,1.00,37.0,17.6,0.196,492000,0.0907,9.68,10.00,12.33,-0.1890,29,SF,Knicks,2018,N,Nike,Marketable Role Players
+Jordan Clarkson,37,0.45,26.0,16.2,0.280,2000000,0.0265,4.25,5.58,3.58,0.5587,33,SG,Knicks,2014,N,Nike,Marketable Role Players
+Bronny James,27,0.33,6.7,2.3,0.206,7500000,0.0956,27.08,23.58,51.50,-0.5421,21,SG,Lakers,2024,N,Nike,Marketable Role Players
+Andrew Wiggins,60,0.73,30.7,18.0,0.246,2000000,0.0440,8.77,7.08,18.50,-0.6173,30,SF,Heat,2014,Y,Peak,Mixed Outcome
+Lonzo Ball,35,0.43,22.2,7.6,0.159,17700000,0.0027,11.30,14.83,14.50,0.0228,28,PG,Cavaliers,2017,Y,FA,Mixed Outcome
+Klay Thompson,72,0.88,27.3,14.0,0.219,16700000,0.0212,15.64,18.08,16.58,0.0905,35,SG,Mavericks,2011,Y,Anta,Mixed Outcome
