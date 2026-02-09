@@ -123,7 +123,7 @@ Brands do not evaluate every athlete in isolation. They think in categories like
 
 To keep everything fair, all performance and popularity metrics were pulled from the same recent time window. 
 
-Note: Some of the players in "Young Signature Bets" have not released their signature shoe just yet, however, it is almost guaranteed that they are coming out. For example, Deni Avdija is rumored to release a new shoe with Adidas in February of 2026. 
+Note: Some of the players in "Young Signature Bets" have not released their signature shoe just yet, however, it is almost guaranteed that they are coming out. For example, [Cade Cunningham](https://www.nba.com/news/cade-cunningham-signature-shoe-nike) is set to release a new shoe with Nike next season. 
 
 
 ### Athlete Buckets
