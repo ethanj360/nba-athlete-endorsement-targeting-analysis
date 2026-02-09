@@ -61,6 +61,7 @@ Images used to preview the Power BI dashboard.
 - Power BI
 
 **Why It Matters**
+
 This project models how brands actually make endorsement decisions under uncertainty and provides a reusable framework for athlete marketing, influencer targeting, and brand partnerships beyond basketball.
 
 
