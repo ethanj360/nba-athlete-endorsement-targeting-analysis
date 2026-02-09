@@ -45,8 +45,8 @@ Images used to preview the Power BI dashboard.
 
 
 **Findings**
-- Keyonte George, Alpren Sengun, Brandon Miller, Jalen Williams, and Scottie Barnes are the players with the highest endorsement upside. They are likely top candidates to receive signature shoes or more player-exclusive colorways in the near future.
-    - Nike's highest endorsement upside athlete is Keyonte George, Jordan's is Jalen Williams, and the best free agent is Deni Avdija. 
+- Keyonte George, Alpren Sengun, Tyrese Maxey, Shaedon Sharpe, and Deni Avdija are the players with the highest endorsement upside. They are likely top candidates to receive signature shoes or more player-exclusive colorways in the near future.
+    - Nike's highest endorsement upside athlete is Keyonte George, Adidas' is Jalen Williams, and the best free agent available to sign is Deni Avdija.
 - Engagement rate and momentum matter more than raw follower count
 - Several non-signature athletes show stronger growth signals than current signature holders
 - Young players with rising usage and public interest represent strong long-term brand bets
