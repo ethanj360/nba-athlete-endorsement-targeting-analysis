@@ -112,11 +112,11 @@ Klay Thompson
 
 ## Data Sources
 
-- ![Google Trends](https://trends.google.com/trends/)
+- [Google Trends](https://trends.google.com/trends/)
 - Instagram public metrics via ![Social Blade](https://socialblade.com/instagram)
-- ![Basketball Reference](https://www.basketball-reference.com/) for NBA player statistics
+- [Basketball Reference](https://www.basketball-reference.com/) for NBA player statistics
 - Public endorsement and signature shoe history
-- ![ESPN sneaker database](https://www.espn.com/espn/feature/story/_/id/39771146/sneakerhead-guide-every-nba-wnba-signature-sneaker-history)
+- [ESPN sneaker database](https://www.espn.com/espn/feature/story/_/id/39771146/sneakerhead-guide-every-nba-wnba-signature-sneaker-history)
 
 ---
 
