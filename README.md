@@ -298,6 +298,100 @@ This appendix provides additional context by ranking individual players purely b
 The final appendix is a quick brand summary. From this, we are able to see which brands are selecting their lineups wisely and how individuals are performing. 
 
 
+---
+
+
+## How to Run or Reproduce This Project
+
+There are two ways to use this project.
+
+### Option A: View the final dashboard
+
+The Power BI dashboard is already built and contains all of the required data for viewing, tinkering, and exploration.
+
+1. Open the Power BI file  
+   `NBA Athlete Endorsement Visualizations Clean.pbix`
+
+2. If you just want to view the visuals without interacting with the data model, open the PDF export:  
+   `NBA Athlete Endorsement Visualizations Clean.pdf`
+
+The dashboard pages reflect the full analysis and do not require re-running SQL queries or rebuilding datasets.
+
+
+### Option B: Rebuild the dataset in BigQuery using SQL
+If you want to see the full pipeline or adjust scoring logic, you can recreate the tables and views in BigQuery using the SQL scripts.
+
+1. Start with the master table logic:  
+   `power_bi_master_table.sql`
+
+2. The endorsement scoring logic is defined in:  
+   `endorsement_score_creation.sql`
+
+3. The rest of the SQL files generate the supporting query outputs used for specific visuals such as:  
+   - `top_endorsement_score_overall.sql`  
+   - `top_targets_by_engagement_score.sql`  
+   - `top_endorsement_targets_momentum.sql`  
+   - `followers_vs_engagement_scatter.sql`  
+   - `hype_vs_performance_scatter.sql`  
+   - `brand_summary.sql`  
+   - `bucket_summary.sql`  
+   - `sig_vs_no_sig_comparison.sql`
+
+### Optional: ESPN signature shoe scraping (Python)
+Python scripts are included for scraping and building the ESPN signature shoe dataset. This dataset was used as a reference for the final dataset. 
+
+Main scripts used:
+- `espn_signature_shoes_scraper.py`
+- `espn_signature_shoes_all_pages.py`
+- `espn_signature_shoes_to_csv.py`
+- `espn_cleaned_csv.py`
+- `espn_cleaned_csv_V2.py`
+
+Cleaned signature shoe outputs:
+- `espn_signature_shoes_cleaned.csv`
+- `athlete_signature_shoes_csv_cleaned.csv`
+
+I considered expanding the scraping and automation further, but for this project the main goal was endorsement decision logic, not building the largest possible dataset. The Python scraping portion is included as a supporting dataset.
+
+
+---
+
+
+## Data Dictionary
+
+This is a quick explanation of the main fields used in the final dataset and dashboard.
+
+- **endorsement_score**  
+  A weighted score used to rank overall endorsement upside. It combines normalized versions of momentum, engagement, role, audience size, and age.
+
+- **google_trends_pct_change**  
+  Measures how much public interest is increasing or decreasing over time based on Google Trends. I used this as a momentum signal.
+
+- **engagement_rate_pct**  
+  Measures how active a player’s audience is. This matters because follower count alone can be misleading.
+
+- **ig_follower_count**  
+  Total Instagram followers. Helpful for reach, but not treated as the only indicator of endorsement value.
+
+- **usage_rate_pct**  
+  How involved a player is in their team’s offense. Higher usage generally means more visibility and more highlight moments.
+
+- **minutes_per_game**  
+Players who are consistently on the court have more exposure.
+
+- **age**  
+  Used as a long-term runway signal. Younger players often have more time to grow into a signature shoe athlete.
+
+- **has_signature_shoe**  
+  A Y or N flag indicating whether the athlete currently has a signature shoe line.
+
+- **brand_signed_with**  
+  The brand currently associated with the athlete’s endorsement deal.
+
+- **bucket**  
+  A category used throughout the dashboard to keep comparisons realistic. It groups athletes by career stage and endorsement status so you can quickly see which players are established signatures, newer signatures, high-value targets without a signature shoe, and lower-cost marketing plays.
+
+
 
 ---
 
