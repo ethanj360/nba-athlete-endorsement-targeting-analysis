@@ -43,9 +43,9 @@ Athletic shoe brands such as Nike, Adidas, Puma, Anta, Jordan Brand, and similar
   Manually collected and combined Google Trends data used to measure public interest momentum.  
   `google_trends_manual_csv/`
 
-- **Dashboard Screenshots**  
+- **![Dashboard Screenshots](nba-athlete-endorsement-targeting-analysis/images)**  
 Images used to preview the Power BI dashboard.  
-  `images/`
+  
 
 
 **Findings**
