@@ -16,7 +16,7 @@ Athletic shoe brands such as Nike, Adidas, Puma, Anta, Jordan Brand, and similar
 - A Power BI dashboard that tells a clear endorsement decision story across performance, momentum, engagement quality, and brand context
 
 **Key Deliverables**
-- Defined business question and client objective
+- Defined business question and objective
 - Documented data sources and collection process
 - Cleaned and validated endorsement dataset
 - SQL-based endorsement scoring and analytical views
@@ -95,9 +95,8 @@ Instead, the analysis reflects how brands actually operate when managing players
 
 ---
 
-## Client Context
 
-**Target Audience**  
+## Target Audience
 Athletic shoe companies such as Nike, Adidas, Puma, Anta, Jordan Brand, and similar brands.
 
 **Business Objective**  
