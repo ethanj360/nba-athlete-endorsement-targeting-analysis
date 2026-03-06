@@ -97,7 +97,7 @@ Instead, the analysis reflects how brands actually operate when managing players
 
 ## Client Context
 
-**Client Type**  
+**Target Audience**  
 Athletic shoe companies such as Nike, Adidas, Puma, Anta, Jordan Brand, and similar brands.
 
 **Business Objective**  
